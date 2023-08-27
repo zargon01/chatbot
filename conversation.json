@@ -1,0 +1,216 @@
+{
+    "queries": [
+        {
+            "query": "Hi",
+            "response": "Hello! How can I assist you today?"
+        },
+        {
+            "query": "Hello",
+            "response": "Hi there! How can I help you?"
+        },
+        {
+            "query": "Hey",
+            "response": "Hey! How can I assist you?"
+        },
+        {
+            "query": "Hi there",
+            "response": "Hello! How can I assist you today?"
+        },
+        {
+            "query": "Is anyone there?",
+            "response": "Yes, I'm here to help! How can I assist you?"
+        },
+        {
+            "query": "Help",
+            "response": "Of course! I'm here to help you. What do you need assistance with?"
+        },
+        {
+            "query": "Can you help me?",
+            "response": "Absolutely! I'm here to assist you. What can I do for you?"
+        },
+        {
+            "query": "I need help",
+            "response": "Sure thing! I'm here to help. What's the issue you're facing?"
+        },
+        {
+            "query": "Assistance required",
+            "response": "Of course, I'm here to assist you. What can I help you with?"
+        },
+        {
+            "query": "I'm lost",
+            "response": "No worries! I'm here to guide you. What are you looking for?"
+        },
+        {
+            "query": "apply for the internship",
+            "response": "To apply for the internship, please visit our website: https://www.industryacademiacommunity.com/courses/Internships"
+        },
+        {
+            "query": "group for updates",
+            "response": "To get updates and information, please join our Telegram Channel: https://t.me/+uXmD1vTLpttjN2Vl"
+        },
+        {
+            "query": "internship start date",
+            "response": "The internship is starting on Saturday, 1st July 2023."
+        },
+        {
+            "query": "difference in internship durations",
+            "response": "The difference in the internship duration is to provide flexibility to accommodate academic requirements. Students can contribute more hours and finish early. Excellence awards will be categorized based on duration."
+        },
+        {
+            "query": "offer letters and certificates",
+            "response": "Participants will receive:\n- Appointment letter after choosing the field\n- Industry Training Certificate (upon assessment completion)\n- Experience Certificate from Cloud Counselage (on successful completion)\n- Appreciation letter/certificate (top performers)"
+        },
+        {
+            "query": "various domains for internship",
+            "response": "There are 16 IT and 7 Management domains for internship:\nCloud Computing, Digital Marketing, DevOps, Human Resources, Machine Learning, Data Analytics, Artificial Intelligence, Business Research, Web Development, Java, Python, Business Development, React JS, UI/UX, Node.js, Operations Management, Android Development, Quality Assurance, Flutter, Cyber Security, Product Management, Project Management, Game Development, Blockchain, Full Stack Development, Marketing Management"
+        },
+        {
+            "query": "help during the project",
+            "response": "Participants will receive help related to understanding the problem statement and project delivery process."
+        },
+        {
+            "query": "successful completion of internship",
+            "response": "Successful completion involves completing tasks as per instructions within deadlines."
+        },
+        {
+            "query": "intern in more than one domain",
+            "response": "Focusing on one field at a time is encouraged for better results."
+        },
+        {
+            "query": "choose/change domain & duration",
+            "response": "Participants can choose/change domain and duration from 14th to 16th July."
+        },
+        {
+            "query": "internship paid or free",
+            "response": "Internship and IAC activities are absolutely FREE."
+        },
+        {
+            "query": "eligibility or selection criteria",
+            "response": "This internship is for students in higher education courses aspiring for IT and Management careers."
+        },
+        {
+            "query": "graduates and freshers apply",
+            "response": "Undergraduates are the target, but graduates and freshers can also participate."
+        },
+        {
+            "query": "timings for internship",
+            "response": "Refer to the Internship Schedule for timings: [Internship Schedule](link)"
+        },
+        {
+            "query": "laptop required for projects",
+            "response": "Yes, a laptop is required."
+        },
+        {
+            "query": "how to choose the domain",
+            "response": "A form will be provided for interns to choose domain and duration."
+        },
+        {
+            "query": "data provided for data analytics",
+            "response": "Yes, data will be provided for data analytics."
+        },
+        {
+            "query": "industry-academia community",
+            "response": "Industry-Academia Community (IAC) provides 360-degree professional development and career growth opportunities for students and freshers."
+        },
+        {
+            "query": "benefits of being part of IAC",
+            "response": "IAC offers workshops, career vision, guidance, industry training, internships, industry visits, CV preparation, soft skills, assessments, hackathons, placements, and entrepreneurship program."
+        },
+        {
+            "query": "fees for being part of community",
+            "response": "Being part of IAC is absolutely FREE, with no hidden charges."
+        },
+        {
+            "query": "participate in all activities",
+            "response": "You can choose activities as per your preference, but participating in more enhances your career readiness."
+        },
+        {
+            "query": "expected work hours",
+            "response": "You're expected to spend 1-2 hours weekly for professional development under IAC."
+        },
+        {
+            "query": "flexibility to participate",
+            "response": "Yes, activities are designed with flexibility to accommodate academic commitments."
+        },
+        {
+            "query": "program helped students earlier",
+            "response": "More than 90% of members rated their experience positively, with boosted confidence, better interviews, and placements."
+        },
+        {
+            "query": "how will the internship be conducted",
+            "response": "The 6-12 weeks online internship focuses on one domain, with no interviews or aptitude tests. Successful project submission earns experience certificate."
+        },
+        {
+            "query": "how can I contact support",
+            "response": "You can contact our support team via email at support@example.com or call our toll-free number at +1-800-123-4567."
+        },
+        {
+            "query": "what industries do you serve",
+            "response": "We provide solutions to a variety of industries including finance, healthcare, technology, manufacturing, and more."
+        },
+        {
+            "query": "tell me about your team",
+            "response": "Our team is composed of experienced professionals specializing in software engineering, data analytics, project management, and more."
+        },
+        {
+            "query": "do you offer training programs",
+            "response": "Yes, we offer training programs that cover areas such as software development, cloud computing, cybersecurity, and more."
+        },
+        {
+            "query": "what is your company's mission",
+            "response": "Our mission is to deliver innovative solutions that empower businesses to thrive in the digital landscape."
+        },
+        {
+            "query": "can participants intern in multiple domains",
+            "response": "We recommend focusing on one domain to ensure the best learning experience and project outcomes."
+        },
+        {
+            "query": "can participants choose/change domain & duration",
+            "response": "Yes, participants can choose or change their domain and duration during the specified period."
+        },
+        {
+            "query": "how will the internship be evaluated",
+            "response": "Interns will be evaluated based on project completion, quality of deliverables, and adherence to deadlines."
+        },
+        {
+            "query": "how to prepare for the internship",
+            "response": "Prepare by reviewing domain-specific concepts, brushing up on relevant skills, and familiarizing yourself with the internship structure."
+        },
+        {
+            "query": "are there any rewards for top performers",
+            "response": "Yes, top performers receive appreciation letters, certificates, and special recognition through the Industry Academia Excellence Awards."
+        },
+        {
+            "query": "what is the eligibility criteria",
+            "response": "The internship is open to students in higher education courses aspiring for careers in IT and Management."
+        },
+        {
+            "query": "can graduates and freshers apply",
+            "response": "While the program is designed for undergraduates, graduates and freshers can also participate if they find it beneficial."
+        },
+        {
+            "query": "what are the timings for the internship",
+            "response": "For the internship schedule, please refer to the provided link for more details."
+        },
+        {
+            "query": "do participants require a laptop",
+            "response": "Yes, participants are required to have a laptop for completing the projects."
+        },
+        {
+            "query": "how can participants choose their domain",
+            "response": "Participants will have access to a form where they can indicate their domain preferences."
+        },
+        {
+            "query": "what is the age group for the internship",
+            "response": "The internship is open to students aged 17 to 24 who aspire to careers in IT and Management."
+        },
+        {
+            "query": "is there a cost for the internship",
+            "response": "No, the internship and all Industry Academia Community activities are completely free of cost."
+        },
+        {
+            "query": "what are the benefits of Industry-Academia Community",
+            "response": "The benefits include workshops, career vision, guidance, industry training, internships, industry visits, CV preparation, soft skills training, assessments, hackathons, job placements, and entrepreneurship programs."
+        }
+    ]
+}
